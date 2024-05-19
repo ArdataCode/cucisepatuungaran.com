@@ -1,0 +1,132 @@
+[28-Feb-2023 20:05:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Mar-2023 05:33:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Apr-2023 05:25:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-May-2023 21:55:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-May-2023 16:58:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-May-2023 11:16:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-May-2023 13:34:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Jun-2023 15:03:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Jun-2023 21:38:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jun-2023 05:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Jun-2023 10:32:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Jun-2023 05:16:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Jun-2023 06:52:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Jun-2023 20:36:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Jul-2023 05:37:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jul-2023 04:32:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jul-2023 04:49:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jul-2023 21:36:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Jul-2023 06:52:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jul-2023 09:25:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jul-2023 13:04:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jul-2023 14:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jul-2023 02:50:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jul-2023 09:16:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jul-2023 13:37:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jul-2023 18:53:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jul-2023 07:56:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Jul-2023 20:57:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Jul-2023 21:56:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jul-2023 22:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Jul-2023 20:52:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Jul-2023 14:37:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Jul-2023 12:55:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-includes/widgets/class-wp-widget-block.php on line 17

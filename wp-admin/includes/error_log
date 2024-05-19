@@ -1,0 +1,8 @@
+[08-Jul-2023 10:41:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/kome9172/public_html/cucisepatuungaran.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-admin/includes/admin.php on line 16
+[08-Jul-2023 10:41:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/kome9172/public_html/cucisepatuungaran.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kome9172/public_html/cucisepatuungaran.com/wp-admin/includes/admin.php on line 16
